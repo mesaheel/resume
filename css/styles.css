@@ -55,6 +55,10 @@ a:hover{
   width: 15%;
   margin: 0 auto 0 auto;
 }
+
+.skills {
+background-color: #11999E;
+}
 .skill-row{
   width: 50%;
   margin: 100px auto 100px auto;
